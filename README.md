@@ -3,6 +3,10 @@
 Finally! I got everything on my landing page just where I wanted it to be.
 All thanks to CSS flex box.
 
+Live preview: https://espinovah.github.io/TOP-foundations-landing-page/
+
+![landing-page](https://user-images.githubusercontent.com/81432480/185591741-0c64d129-bb76-4ba9-a25a-73316164f2dc.gif)
+
 Basically, this landing page has 4 sections and a footer. It took me a whole day (I took breaks) to complete this task.
 
 # What Did I build?
